@@ -7,7 +7,7 @@
 
 ### 1. [CGM_YoungChildren.csv](https://public.jaeb.org/datasets/diabetes)
 **출처**: JAEB Center  
-**데이터명**: *A Study to Assess Continuous Glucose Sensor Profiles in Healthy Non-Diabetic Participants Aged <7 Years*
+**데이터명**: *A Study to Assess Continuous Glucose Sensor Profiles in Healthy Non-Diabetic Participants Aged <7 Years
 **요약**: 만 1~ 6세 제1형 당뇨 아동의 CGM을 사용하여 수집한 혈당 기록
 
 | 컬럼명 | 설명 | 예시 |
