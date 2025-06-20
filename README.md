@@ -43,8 +43,8 @@
 ---
 
 ### 3. [Food_Recipe_DB.csv](https://www.foodsafetykorea.go.kr/api/openApiInfo.do?menu_grp=MENU_GRP31&menu_no=661)
-**출처**: 식품안전나라 - 공공 레시피 API  
-**데이터명**: COOKRCP01 (공공 레시피 영양정보 포함)
+**출처**: 식품의약품안전처 - 공공 레시피 API  
+**데이터명**: 조리식품의 레시피 DB (공공 레시피 영양정보 포함)
 
 | 컬럼명 | 설명 |
 |--------|------|
